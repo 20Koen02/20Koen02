@@ -4,10 +4,7 @@
 My name is Koen van Wijngaarden and I'm a Software Developer<br/>
 🌍 from the Netherlands,<br/>
 👨‍🎓 student at UAS Leiden and<br/>
-💼 working at Elsive.<br/>
-<br/>
-Working with Python, Docker & MongoDB.<br/>
-Proficient in Java and JavaScript.<br/>
+💼 working at Elsive.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-JetBrains-informational?style=flat&logo=jetbrains&logoColor=white&color=db4949)
