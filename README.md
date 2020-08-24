@@ -19,6 +19,3 @@ My name is Koen van Wijngaarden and I'm a Software Developer<br/>
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=db4949)
 ![](https://img.shields.io/badge/Code-Vue.JS-informational?style=flat&logo=vue.js&logoColor=white&color=db4949)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=db4949)
-
-## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=20Koen02&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=db4949&bg_color=242424)
