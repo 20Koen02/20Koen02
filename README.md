@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/20Koen02/20Koen02/master/banner.svg "Banner")](https://koen02.nl/)
+[![Header](https://raw.githubusercontent.com/20Koen02/20Koen02/master/banner.png "Banner")](https://koen02.nl/)
 
 # 👋 Hello, coders!
 My name is Koen van Wijngaarden and I'm a Software Developer<br/>
