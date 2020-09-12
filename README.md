@@ -19,3 +19,5 @@ My name is Koen van Wijngaarden and I'm a Software Developer<br/>
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=db4949)
 ![](https://img.shields.io/badge/Code-Vue.JS-informational?style=flat&logo=vue.js&logoColor=white&color=db4949)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=db4949)
+![](https://img.shields.io/badge/Tools-FastAPI-informational?style=flat&logo=python&logoColor=white&color=db4949)
+![](https://img.shields.io/badge/Tools-Drone%20CI%20/%20CD-informational?style=flat&logo=drone&logoColor=white&color=db4949)
