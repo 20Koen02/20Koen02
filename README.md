@@ -27,17 +27,15 @@ My name is Koen van Wijngaarden and I'm a Software Developer<br/>
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=db4949)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=db4949)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=db4949)
-
-
-## 📚 Learning
-
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=db4949)
-![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=db4949)
-![](https://img.shields.io/badge/Code-Vue.JS-informational?style=flat&logo=vue.js&logoColor=white&color=db4949)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=db4949)
 ![](https://img.shields.io/badge/Code-Next.JS-informational?style=flat&logo=next.js&logoColor=white&color=db4949)
 ![](https://img.shields.io/badge/Code-NestJS-informational?style=flat&logo=nestjs&logoColor=white&color=db4949)
 
+
+## 📚 Learning
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=db4949)
+![](https://img.shields.io/badge/Code-Vue.JS-informational?style=flat&logo=vue.js&logoColor=white&color=db4949)
 
 ## 📈 Stats
 
